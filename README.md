@@ -71,4 +71,4 @@ Contributions to this project are welcome. Feel free to open issues and submit p
 
 ## License
 
-This project is licensed under the [ISC License](LICENSE).
+This project is licensed under the [MIT License](LICENSE).
